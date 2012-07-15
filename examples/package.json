@@ -1,0 +1,8 @@
+{
+  "name": "connect-redirection-example",
+  "version": "0.0.0",
+  "dependencies": {
+    "connect": "2.x.x",
+    "connect-redirection": "0.0.x"
+  }
+}
