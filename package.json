@@ -1,6 +1,6 @@
 {
   "name": "connect-redirection",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Response redirect middleware for Connect.",
   "keywords": ["connect", "express", "redirect"],
   "repository": {
