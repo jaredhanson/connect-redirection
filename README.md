@@ -21,7 +21,6 @@ the chain will then be able to call `res.redirect()`.
 
     var connect = require('connect')
       , redirect = require('connect-redirection')
-      , http = require('http')
 
     var app = connect()
       .use(redirect())
